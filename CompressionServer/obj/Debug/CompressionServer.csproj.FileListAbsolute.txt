@@ -1,0 +1,7 @@
+D:\Semester 8\Network Programming\CompressionProject\CompressionServer\bin\Debug\CompressionServer.exe.config
+D:\Semester 8\Network Programming\CompressionProject\CompressionServer\bin\Debug\CompressionServer.exe
+D:\Semester 8\Network Programming\CompressionProject\CompressionServer\bin\Debug\CompressionServer.pdb
+D:\Semester 8\Network Programming\CompressionProject\CompressionServer\obj\Debug\CompressionServer.csproj.AssemblyReference.cache
+D:\Semester 8\Network Programming\CompressionProject\CompressionServer\obj\Debug\CompressionServer.csproj.CoreCompileInputs.cache
+D:\Semester 8\Network Programming\CompressionProject\CompressionServer\obj\Debug\CompressionServer.exe
+D:\Semester 8\Network Programming\CompressionProject\CompressionServer\obj\Debug\CompressionServer.pdb

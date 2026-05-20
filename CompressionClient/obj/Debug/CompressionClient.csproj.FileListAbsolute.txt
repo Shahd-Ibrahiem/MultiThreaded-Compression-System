@@ -1,0 +1,10 @@
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\bin\Debug\CompressionClient.exe.config
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\bin\Debug\CompressionClient.exe
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\bin\Debug\CompressionClient.pdb
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\obj\Debug\CompressionClient.csproj.AssemblyReference.cache
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\obj\Debug\CompressionClient.Form1.resources
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\obj\Debug\CompressionClient.Properties.Resources.resources
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\obj\Debug\CompressionClient.csproj.GenerateResource.cache
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\obj\Debug\CompressionClient.csproj.CoreCompileInputs.cache
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\obj\Debug\CompressionClient.exe
+D:\Semester 8\Network Programming\CompressionProject\CompressionClient\obj\Debug\CompressionClient.pdb

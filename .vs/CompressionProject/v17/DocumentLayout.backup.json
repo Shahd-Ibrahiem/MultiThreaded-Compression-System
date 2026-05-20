@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 8\\Network Programming\\CompressionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43C608-F754-410E-890C-A3E173FBB8BA}|CompressionClient\\CompressionClient.csproj|d:\\semester 8\\network programming\\compressionproject\\compressionclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43C608-F754-410E-890C-A3E173FBB8BA}|CompressionClient\\CompressionClient.csproj|solutionrelative:compressionclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43C608-F754-410E-890C-A3E173FBB8BA}|CompressionClient\\CompressionClient.csproj|d:\\semester 8\\network programming\\compressionproject\\compressionclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E43C608-F754-410E-890C-A3E173FBB8BA}|CompressionClient\\CompressionClient.csproj|solutionrelative:compressionclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C94277-7C11-4CE6-9454-535FF84D9F3E}|CompressionServer\\CompressionServer.csproj|d:\\semester 8\\network programming\\compressionproject\\compressionserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C94277-7C11-4CE6-9454-535FF84D9F3E}|CompressionServer\\CompressionServer.csproj|solutionrelative:compressionserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Semester 8\\Network Programming\\CompressionProject\\CompressionClient\\Form1.cs",
+              "RelativeDocumentMoniker": "CompressionClient\\Form1.cs",
+              "ToolTip": "D:\\Semester 8\\Network Programming\\CompressionProject\\CompressionClient\\Form1.cs",
+              "RelativeToolTip": "CompressionClient\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:36:30.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 8\\Network Programming\\CompressionProject\\CompressionClient\\Form1.cs",
+              "RelativeDocumentMoniker": "CompressionClient\\Form1.cs",
+              "ToolTip": "D:\\Semester 8\\Network Programming\\CompressionProject\\CompressionClient\\Form1.cs [Design]",
+              "RelativeToolTip": "CompressionClient\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:33:04.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester 8\\Network Programming\\CompressionProject\\CompressionServer\\Program.cs",
+              "RelativeDocumentMoniker": "CompressionServer\\Program.cs",
+              "ToolTip": "D:\\Semester 8\\Network Programming\\CompressionProject\\CompressionServer\\Program.cs",
+              "RelativeToolTip": "CompressionServer\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:30:53.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

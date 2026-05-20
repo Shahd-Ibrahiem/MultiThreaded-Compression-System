@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CompressionServer\\CompressionServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CompressionClient\\CompressionClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
